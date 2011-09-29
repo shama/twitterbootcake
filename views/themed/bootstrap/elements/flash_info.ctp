@@ -1,0 +1,1 @@
+<div class="alert-message info"><?php echo $content_for_layout; ?></div>

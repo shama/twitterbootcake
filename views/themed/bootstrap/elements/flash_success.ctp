@@ -1,0 +1,1 @@
+<div class="alert-message success"><?php echo $content_for_layout; ?></div>
