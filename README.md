@@ -1,3 +1,18 @@
+# NOTICE
+
+I am no longer supporting this project. There are a lot of other people doing this better and it is so simple to implement Twitter Bootstrap into CakePHP... so I say meh. Go to one of these other fine establishments:
+
+**[https://github.com/loadsys/twitter-bootstrap-helper](https://github.com/loadsys/twitter-bootstrap-helper)**
+
+[https://github.com/mtkocak/Cakephp-Bootstrappifier](https://github.com/mtkocak/Cakephp-Bootstrappifier)
+
+[https://github.com/slywalker/TwitterBootstrap](https://github.com/slywalker/TwitterBootstrap)
+
+[https://github.com/milds/TbsSkell](https://github.com/milds/TbsSkell)
+
+
+
+[http://cakepackages.com/packages/index/query:twitter](http://cakepackages.com/packages/index/query:twitter)
 
 # Twitter Bootstrap CakePHP Theme
 
